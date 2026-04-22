@@ -11,7 +11,7 @@ Sou apaixonado por resolver problemas através do código, unindo o rigor analí
 * **Gestão & Metodologias:** Scrum, Kanban, JIRA, ITIL v4, COBIT, SAP
 
 ### 🚀 O que ando a construir
-* 🏋️‍♂️ **App de Fitness & Nutrição:** Uma aplicação mobile nativa (estilo MyFitnessPal) para tracking de treino e dieta (Dart/Firebase).
+* 🏋️‍♂️ **App de Fitness & Nutrição:** Uma aplicação mobile nativa (estilo MyFitnessPal) para tracking de treino e dieta (Dart/Firebase). https://github.com/henrique-correia-it/gym_os
 * 🛒 **E-commerce Full-Stack:** Uma plataforma web dinâmica para gestão de vendas, atualmente em produção em [toptop.pt](https://toptop.pt) (PHP/SQL).
 
 ### 📫 Vamos conectar-nos
