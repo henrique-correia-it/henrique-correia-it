@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá! 👋 Sou o Henrique Correia
 
-<!--
-**henrique-correia-it/henrique-correia-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudante de Engenharia Eletrotécnica & Desenvolvedor de Software**
 
-Here are some ideas to get you started:
+Sou apaixonado por resolver problemas através do código, unindo o rigor analítico da engenharia com a agilidade do desenvolvimento de software. Atualmente, atuo na equipa de IT Europe da multinacional WEG e construo soluções digitais focadas no utilizador.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ A Minha Stack Tecnológica
+* **Software & Mobile:** Dart, Flutter, PHP, JavaScript, C
+* **Bases de Dados & Cloud:** Firebase (Auth, Firestore, Realtime DB), MySQL, PostgreSQL, SQL
+* **Engenharia & Sistemas:** Microcontroladores (Arduino, ATmega), Linux, LabVIEW
+* **Gestão & Metodologias:** Scrum, Kanban, JIRA, ITIL v4, COBIT, SAP
+
+### 🚀 O que ando a construir
+* 🏋️‍♂️ **App de Fitness & Nutrição:** Uma aplicação mobile nativa (estilo MyFitnessPal) para tracking de treino e dieta (Dart/Firebase).
+* 🛒 **E-commerce Full-Stack:** Uma plataforma web dinâmica para gestão de vendas, atualmente em produção em [toptop.pt](https://toptop.pt) (PHP/SQL).
+
+### 📫 Vamos conectar-nos
+* O meu LinkedIn - https://www.linkedin.com/in/henrique--correia
